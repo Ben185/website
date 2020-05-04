@@ -1,0 +1,194 @@
+
+
+Body {
+    background-color: AntiqueWhite;
+}
+header{
+    background-color: darkseagreen;
+    padding: 10px;
+}
+nav {
+    font-size: 40px;
+    background-color: darkseagreen;
+    text-align: center;
+}
+
+h1 {
+    font-size: 55px;
+    text-align: center;
+}
+
+h2 {
+   font-size: 35px;
+    text-align: center;
+    
+}
+
+img {
+ float: right;
+    height: 400px;
+    width: 500px;
+   border-radius: 50px;
+    
+}
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+    }
+
+img {
+ float: right;
+    height: 400px;
+    width: 500px;
+   border-radius: 50px;
+}
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+    }
+
+img{
+
+}
+
+
+/* Pseudo codes*/
+
+a:visited {
+    background-color: darkseagreen;
+    color: LightYellow;
+}
+ 
+a:hover {
+    background-color: lightgreen;
+   
+}
+
+a:link {
+    background-color: darkseagreen;
+    text-decoration: none;
+  color: lightyellow;
+}
+
+a:active {
+    background-color: darkseagreen;
+}
+
+<<<<<<< HEAD
+/* Classes */
+
+.Map {
+    
+   width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Pic1 {
+    font-size: 20px;
+    
+}
+.flex-container {
+    display: flex;
+  flex-direction: column;
+text-align: center;
+    font-size: 25px;
+    border: solid 10px darkseagreen;
+}
+img{
+    
+}
+
+
+.Pac1 {
+    font-size: 25px;
+    
+}
+
+
+.members {
+text-decoration: underline;
+    font-size: 60px;
+    border: solid 10px darkseagreen;
+    
+
+   width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+h4 {
+    font-size: 35px;
+    text-align: center;
+}
+.flex-container {
+    display: flex;
+  flex-direction: column;
+text-align: center;
+    font-size: 25px;
+    border: solid 10px darkseagreen;
+}
+
+.members {
+text-decoration: underline;
+    font-size: 60px;
+    border: solid 10px darkseagreen;
+}
+ 
+.pic1 {
+    float: right;
+    height: 400px;
+    width: 500px;
+   border-radius: 50px;
+}
+
+.pic2 {
+ float: left;
+    height: 600px;
+    width: 500px;
+   border-radius: 50px;
+}
+
+.pac2 {
+    font-size: 25px;
+}
+
+
+#myBtn {
+  
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: darkseagreen;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+    }
+    
+    
+    #myBtn:hover {
+  background-color: darkseagreen;
+    }
+
+
+
+    
+.school {
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+    @font-face {
+   font-family: Fira Sans Extra Condensed', sans-serif;
+
+    }
+   
+    
