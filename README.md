@@ -1,5 +1,4 @@
 website project
 
-Taylan Brown
-BJ Ward
+Team RC:  Taylan Brown & BJ Ward
 JCM Early College High
